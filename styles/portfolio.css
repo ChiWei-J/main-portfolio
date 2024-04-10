@@ -2,6 +2,7 @@
   --branding-color: #6059df;
   --secondary-color: #e7e0f9;
   --default-font-family: "Sen", sans-serif;
+  --heading-font-family: "Josefin Sans", sans-serif;
 }
 
 body {
@@ -15,7 +16,7 @@ h4,
 h5,
 h6 {
   color: black;
-  font-family: var(--default-font-family);
+  font-family: var(--heading-font-family);
   font-weight: bold;
 }
 
@@ -41,7 +42,7 @@ p {
 }
 
 .hero h2 {
-  font-family: var(--default-font-family);
+  font-family: var(--heading-font-family);
   font-weight: normal;
   line-height: 2;
   font-size: 24px;
