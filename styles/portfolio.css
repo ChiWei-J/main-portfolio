@@ -33,6 +33,9 @@ h3 a {
   text-decoration: none;
   color: var(--branding-color);
 }
+h3 a:hover {
+  text-decoration: underline;
+}
 
 p {
   font-weight: normal;
