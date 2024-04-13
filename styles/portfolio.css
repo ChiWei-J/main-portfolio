@@ -209,4 +209,7 @@ footer .social-links a:hover {
   footer {
     text-align: center;
   }
+  footer p {
+    padding: 10px;
+  }
 }
